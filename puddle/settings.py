@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'tailwind',
     'theme',
     'item',
+    'widget_tweaks',
 ]
 
 TAILWIND_APP_NAME = 'theme'
